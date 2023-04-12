@@ -26,10 +26,10 @@ public class AF_Q02_Rev01 {
 			}
 		}
 		
-		System.out.println("\n \nCrianças: " + contCrianca);
-		System.out.println("Adolescentes: " + contAdolescente);
-		System.out.println("Adultos: " + contAdulto);
-		System.out.println("Idosos: " + contIdoso);
+		System.out.println("\n \nTotal de Crianças: " + contCrianca);
+		System.out.println("Total de Adolescentes: " + contAdolescente);
+		System.out.println("Total de Adultos: " + contAdulto);
+		System.out.println("Total de Idosos: " + contIdoso);
 
 	}
 
